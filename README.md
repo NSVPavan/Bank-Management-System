@@ -1,4 +1,3 @@
-# Bank-Management-System
 # Bank Management System
 
 This is a simple bank management system built using PHP and MySQL. Follow the instructions below to set up the project on your local machine.
